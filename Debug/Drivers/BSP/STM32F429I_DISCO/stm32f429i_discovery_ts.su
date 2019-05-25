@@ -1,0 +1,5 @@
+stm32f429i_discovery_ts.c:102:9:BSP_TS_Init	16	static
+stm32f429i_discovery_ts.c:133:9:BSP_TS_ITConfig	8	static
+stm32f429i_discovery_ts.c:145:9:BSP_TS_ITGetStatus	0	static
+stm32f429i_discovery_ts.c:155:6:BSP_TS_GetState	24	static
+stm32f429i_discovery_ts.c:231:6:BSP_TS_ITClear	0	static

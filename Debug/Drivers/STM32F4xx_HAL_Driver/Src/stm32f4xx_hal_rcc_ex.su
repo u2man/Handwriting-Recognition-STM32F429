@@ -1,0 +1,8 @@
+stm32f4xx_hal_rcc_ex.c:2165:19:HAL_RCCEx_PeriphCLKConfig	32	static
+stm32f4xx_hal_rcc_ex.c:2388:6:HAL_RCCEx_GetPeriphCLKConfig	0	static
+stm32f4xx_hal_rcc_ex.c:2429:10:HAL_RCCEx_GetPeriphCLKFreq	0	static
+stm32f4xx_hal_rcc_ex.c:2793:19:HAL_RCCEx_EnablePLLI2S	24	static
+stm32f4xx_hal_rcc_ex.c:2876:19:HAL_RCCEx_DisablePLLI2S	16	static
+stm32f4xx_hal_rcc_ex.c:2906:19:HAL_RCCEx_EnablePLLSAI	24	static
+stm32f4xx_hal_rcc_ex.c:2980:19:HAL_RCCEx_DisablePLLSAI	16	static
+stm32f4xx_hal_rcc_ex.c:3133:19:HAL_RCC_DeInit	16	static

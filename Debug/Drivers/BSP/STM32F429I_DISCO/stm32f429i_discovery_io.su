@@ -1,0 +1,7 @@
+stm32f429i_discovery_io.c:106:9:BSP_IO_Init	16	static
+stm32f429i_discovery_io.c:132:9:BSP_IO_ITGetStatus	8	static
+stm32f429i_discovery_io.c:141:6:BSP_IO_ITClear	0	static
+stm32f429i_discovery_io.c:160:6:BSP_IO_ConfigPin	0	static
+stm32f429i_discovery_io.c:172:6:BSP_IO_WritePin	0	static
+stm32f429i_discovery_io.c:184:10:BSP_IO_ReadPin	8	static
+stm32f429i_discovery_io.c:194:6:BSP_IO_TogglePin	16	static
