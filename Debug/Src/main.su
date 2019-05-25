@@ -1,0 +1,4 @@
+main.c:245:13:Draw_Menu	16	static
+main.c:191:6:SystemClock_Config	144	static
+main.c:100:5:main	48	static
+main.c:383:6:Error_Handler	0	static
