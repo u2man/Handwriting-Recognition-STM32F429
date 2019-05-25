@@ -6,3 +6,6 @@ https://youtu.be/990TrZHKTyQ
 
 Pre-trained data using cnn.h5
 https://raw.githubusercontent.com/EN10/KerasMNIST/master/cnn.h5
+
+Video:
+https://youtu.be/KbrsHoC1XGA
